@@ -1,0 +1,539 @@
+den nanim) (n/ň) (e/-) (IIa1*)  day
+večer (m inanim) (IIa5) evening
+víkend (m inanim) (d/ď) (IIa1 or IIa2)  weekend
+odpoledne (n) (n/ň) (IVb1*) afternoon
+ráno (n) (IVa1) morning
+noc (f) (IIIc4) night
+kluk (m anim) (k/c) (Ia3) boy
+strom (m inanim) (IIa1 or IIa2) tree
+člověk (m anim) (k/č) (d/ď) (Ia3* sing., IIIc6* pl.)  person, human
+muž (m anim) (Ib1 or Ib2) man, husband
+stroj (m inanim) (IIb2) machine
+hrad (m inanim) (d/ď) (IIa1 or IIa2)  castle
+dům (m inanim) (ů/o) (IIa1 or IIa2) house
+František (m anim) (k/c) (e/-) (Ia4)  František
+Matěj (m anim) (Ib2)  Matěj
+holka (f) (k/c) (-/e) (IIIa2) girl
+žena (f) (n/ň) (IIIa1)  woman, wife
+ulice (f) (IIIb4) street
+věc (f) (IIIc6) thing, object, cause
+láska (f) (k/c) (-/e) (IIIa2) love
+Žofie (f) (IIIb2) Žofie
+Kateřina (f) (n/ň) (IIIa1)  Kateřina
+město (n) (t/ť) (IVa1 or IVa2)  city, town
+auto (n) (t/ť) (IVa1 or IVa2) car, automobile
+dítě (n sing., f pl.) (í/ě) (IVc1 sing., IIIc6* pl.)  child
+víno (n) (n/ň) (IVa1 or IVa2) wine
+zvíře (n) (IVc2)  animal
+děvče (n) (IVc2)  girl
+moře (n) (IVb1) sea
+náměstí (n) (IVd1)  square
+slovo (n) (IVa1 or IVa2)  word
+chlapec (m anim) (c/č) (e/-) (Ib5)  boy
+osoba (f) (IIIa1) person
+hoch (m anim) (ch/š) (Ia3)  boy
+automobil (m inanim) (IIa1) car
+jméno (n) (n/ň) (é/e) (IVa1 or IVa2)  name
+mašina (f) (n/ň) (IIIa1)  machine
+manžel (m anim) (Ia2* or Ib7 in pl.)  husband
+manželka (f) (k/c) (-/e) (IIIa2)  wife
+dívka (f) (k/c) (-/e) (IIIa2) girl
+věta (f) (t/ť) (IIIa1)  sentence
+jablko (n) (k/c) (-/e) (IVa4) apple
+sýr (m inanim) (IIa1 or IIa5) cheese
+chléb (m inanim) (é/e) (IIa5 or IIa6) bread
+maso (n) (IVa1 or IVa3) meat
+mléko (n) (k/c) (IVa4*) milk
+voda (f) (d/ď) (IIIa1)  water
+pivo (n) (IVa1 or IVa2) beer
+káva (f) (IIIa1)  coffee
+polévka (f) (k/c) (-/e) (IIIa2) soup
+hruška (f) (k/c) (-/e) (IIIa2)  pear
+žízeň (f) (e/-) (IIIc1) thirst
+hlad (m inanim) (d/ď) (IIa1 or IIa2)  hunger
+sůl (f) (ů/o) (IIIc4) salt
+cukr (m inanim) (r/ř) (IIa1)  sugar
+kuře (n) (IVc2) chicken
+vajíčko (n) (k/c) (-/e) (IVa4)  egg
+čaj (m inanim) (IIb2) tea
+pes (m anim) (e/-) (Ia1 or Ia2) dog
+myš (f) (IIIc5) mouse
+kočka (f) (k/c) (-/e) (IIIa2) cat
+ryba (f) (IIIa1)  fish
+žrádlo (n) (-/e) (IVa1 or IVa3) food
+kůň (m anim) (ů/o) (Ib3*) horse
+osel (m anim) (e/-) (Ia1 or Ia2)  donkey
+prase (n) (IVc2)  pig
+kráva (f) (á/a) (IIIa1*)  cow
+koza (f) (IIIa2)  goat
+medvěd (m anim) (d/ď) (Ia1 or Ia2)  bear
+vlk (m anim) (k/c) (Ia3)  wolf
+liška (f) (k/c) (-/e) (IIIa2) fox
+kachna (f) (n/ň) (-/e) (IIIa1)  duck
+pták (m anim) (k/c) (Ia3) bird
+husa (f) (IIIa2*) goose
+slepice (f) (IIIb4) hen
+pavouk (m anim) (k/c) (Ia3) spider
+moucha (f) (ou/u) (ch/š) (IIIa2)  fly
+divadlo (n) (-/e) (IVa1 or IVa3)  theater
+jídlo (n) (-/e) (IVa1 or IVa3)  food, meal
+přítel (m anim) (í/á) (Ib7*)  friend, boyfriend
+přítelkyně (f) (IIIb1 or IIIb3) friend, girlfriend
+kniha (f) (h/z) (IIIa2) book
+časopis (m inanim) (IIa1 or IIa3) magazine, journal
+barva (f) (-/e) (IIIa1) color, paint
+otec (m anim) (c/č) (e/-) (Ib6) father
+matka (f) (k/c) (-/e) (IIIa2) mother
+rodina (f) (n/ň) (IIIa1)  family
+syn (m anim) (Ia2*) son
+dcera (f) (r/ř) (IIIa2*)  daughter
+dědeček (m anim) (k/c) (e/-) (Ia3 or Ia4) grandfather
+babička (f) (k/c) (-/e) (IIIa2) grandmother
+bratr (m anim) (r/ř) (Ia1)  brother
+sestra (f) (r/ř) (-/e) (IIIa2)  sister
+bratranec (m anim) (c/č) (e/-) (Ib5)  cousin
+strýc (m anim) (c/č) (Ib5* or Ib6*) uncle
+sestřenice (f) (IIIb4)  cousin
+teta (f) (t/ť) (IIIa1)  aunt
+rodič (m anim) (Ib2 or Ib4) parent
+sukně (f) (IIIb1) skirt
+košile (f) (IIIb4)  shirt
+oblečení (n) (IVd1) clothes
+triko (n) (k/c) (IVa4)  T-shirt
+bota (f) (t/ť) (IIIa1)  shoe
+kalhoty (pl) (IIIa1)  trousers, pants
+ponožka (f) (k/c) (-/e) (IIIa2) sock
+svetr (m inanim) (r/ř) (IIa1) sweater
+šaty (pl) (IIa1 or IIa2)  dress
+kabát (m inanim) (t/ť) (IIa1 or IIa2) coat
+klobouk (m inanim) (k/c) (IIa4) hat
+bunda (f) (d/ď) (IIIa1) jacket
+šperk (m inanim) (k/c) (IIa4) jewel
+hodina (f) (n/ň) (IIIa1)  hour, o'clock
+čtvrt (f) (t/ť) (IIIc1 or IIIc3)  quarter
+rok (m inanim) (k/c) (IIa4* or IIa8*) year
+obývák (m inanim) (k/c) (IIa4*) living room
+kuchyně (f) (IIIb1 or IIIb3)  kitchen
+ložnice (f) (IIIb4) bedroom
+byt (m inanim) (t/ť) (IIa1 or IIa2) apartment
+místnost (f) (t/ť) (IIIc6)  room
+koupelna (f) (n/ň) (-/e) (IIIa1)  bathroom
+pohovka (f) (k/c) (-/e) (IIIa2) sofa
+postel (f) (IIIc2)  bed
+stůl (m inanim) (ů/o) (IIa1 or IIa3)  table, desk
+pračka (f) (k/c) (-/e) (IIIa2)  washer
+sušička (f) (k/c) (-/e) (IIIa2) dryer
+židle (f) (IIIb2) chair
+nůž (m inanim) (ů/o) (IIb2) knife
+lžíce (f) (í/i) (IIIb4*)  spoon
+talíř (m inanim) (IIb2) plate
+záchod (m inanim) (d/ď) (IIa1 or IIa2)  toilet
+vidlička (f) (k/c) (-/e) (IIIa2)  fork
+šálek (m inanim) (k/c) (e/-) (IIa4) cup
+okno (n) (n/ň) (-/e) (IVa1 or IVa2) window
+dveře (pl) (IIIc2*) door
+mýdlo (n) (-/e) (IVa1 or IVa3)  soap
+sklenice (f) (IIIb4)  glass
+televize (f) (IIIb2)  television
+lednička (f) (k/c) (-/e) (IIIa2)  fridge
+dopis (m inanim) (IIa1 or IIa3) letter
+číslo (n) (-/e) (IVa3)  number
+minuta (f) (t/ť) (IIIa1)  minute
+pondělí (n) (IVd1)  Monday
+úterý (n) (IVd2)  Tuesday
+středa (f) (d/ď) (IIIa1)  Wednesday
+čtvrtek (m inanim) (k/c) (e/-) (IIa8) Thursday
+pátek (m inanim) (k/c) (e/-) (IIa4) Friday
+sobota (f) (t/ť) (IIIa1)  Saturday
+neděle (f) (IIIb2 or IIIb4) Sunday
+týden (m inanim) (n/ň)(e/-) (IIa2*) week
+škola (f) (IIIa2) school
+zahrada (f) (d/ď) (IIIa1) garden, yard
+nádraží (n) (IVd1)  station
+letiště (n) (IVb2)  airport
+kancelář (f) (IIIc2)  office
+obchod (m inanim) (d/ď) (IIa1 or IIa2)  store, shop
+hotel (m inanim) (IIa1*)  hotel
+restaurace (f) (IIIb2)  restaurant
+pokoj (m inanim) (IIb2) room
+sto (n) (-/e) (IVa1)  hundred
+koruna (f) (n/ň) (IIIa1)  crown
+euro (n) (IVa1) euro
+tisíc (m inanim) (IIb2*)  thousand
+ruka (f) (k/c) (IIIa2*) hand, arm
+noha (f) (h/z) (IIIa2*) foot, leg
+krk (m inanim) (k/c) (IIa4) neck
+hlava (f) (IIIa1) head
+tělo (n) (IVa3) body
+nos (m inanim) (IIa1 or IIa3) nose
+vlas (m inanim) (IIa1 or IIa3)  hair
+oko (n) (k/č) (IVa4*) eye
+ucho (n) (ch/š) (IVa4*) ear
+ústa (pl) (IVa1)  mouth
+zub (m inanim) (IIa1) tooth
+prst (m inanim) (t/ť) (IIa1 or IIa2)  finger
+tvář (f) (IIIc2)  face
+obličej (m inanim) (IIb2) face
+ret (m inanim) (e/-) (IIa1) lip
+kost (f) (t/ť) (IIIc6)  bone
+kůže (f) (IIIb2)  skin
+krev (f) (e/-) (IIIc2)  blood
+oblek (m inanim) (k/c) (IIa4) suit
+měsíc (m inanim) (IIb2) month, moon
+leden (m inanim) (e/-) (IIa5) January
+únor (m inanim) (IIa5)  February
+březen (m inanim) (e/-) (IIa5)  March
+duben (m inanim) (e/-) (IIa5) April
+květen (m inanim) (e/-) (IIa5)  May
+červen (m inanim) (e/-) (IIa5)  June
+červenec (m inanim) (e/-) (IIb2)  July
+srpen (m inanim) (e/-) (IIa5) August
+září (n) (IVd1) September
+říjen (m inanim) (e/-) (IIa5) October
+listopad (m inanim) (IIa1)  November
+prosinec (m inanim) (e/-) (IIb2)  December
+zima (f) (IIIa1)  winter
+jaro (n) (r/ř) (IVa1 or IVa3) spring
+léto (n) (t/ť) (é/e) (IVa1* or IVa2*) summer
+podzim (m inanim) (IIa1)  autumn/fall
+místo (n) (t/ť) (IVa2)  place
+cesta (f) (t/ť) (IIIa1) journey, road, way
+láhev (f) (e/-) (IIIc2) bottle
+oběd (m inanim) (d/ď) (IIa6)  lunch
+pláž (f) (IIIc2)  beach
+století (n) (o/a) (IVd1*) century
+narozeniny (pl) (IIIa1) birthday
+máma (f) (IIIa1)  mom
+táta (m anim) (Ic1) dad
+sourozenec (m anim) (c/č) (e/-) (Ib5) sibling
+Čechy (pl) (IIIa2)  Bohemia
+Česko (n) (IVa4)  Czech Republic
+Evropa (f) (IIIa1)  Europe
+země (f) (IIIb1)  country, land
+Polsko (n) (IVa4) Poland
+Německo (n) (IVa4)  Germany
+západ (m inanim) (d/ď) (IIa1 or IIa2) west
+Slovensko (n) (IVa4)  Slovakia
+soused (m anim) (d/ď) (Ia1 or Ia5)  neighbor
+Morava (f) (IIIa1)  Moravia
+mapa (f) (IIIa1)  map
+Praha (f) (h/z) (IIIa2) Prague
+Rakousko (n) (IVa4) Austria
+jih (m inanim) (h/z) (IIa4) south
+kolo (n) (IVa3) bicycle
+jazyk (m inanim) (k/c) (IIa4*)  language, tongue
+počítač (m inanim) (IIb2) computer
+Čech (m anim) (ch/š) (Ia3 or Ia4) Czech
+Češka (f) (k/c) (-/e) (IIIa2) Czech
+Slovák (m anim) (k/c) (Ia3) Slovak
+Slovenka (f) (k/c) (-/e) (IIIa2)  Slovak
+procento (n) (t/ť) (IVa1 or IVa2) percent
+Němec (m anim) (c/č) (e/-) (Ib5)  German
+Angličan (m anim) (Ia5) Englishman
+Němka (f) (k/c) (-/e) (IIIa2) German
+Polka (f) (k/c) (-/e) (IIIa2) Pole
+Polák (m anim) (k/c) (Ia3 or Ia4) Pole
+cizinka (f) (k/c) (-/e) (IIIa2) foreigner
+cizinec (m anim) (c/č) (e/-) (Ib5)  foreigner
+Angličanka (f) (k/c) (-/e) (IIIa2)  Englishwoman
+slovenština (f) (n/ň) (IIIa1) Slovak (language)
+polština (f) (n/ň) (IIIa1)  Polish (language)
+angličtina (f) (n/ň) (IIIa1)  English (language)
+němčina (f) (n/ň) (IIIa1) German (language)
+čeština (f) (n/ň) (IIIa1) Czech (language)
+tužka (f) (k/c) (-/e) (IIIa2) pencil
+nástroj (m inanim) (IIb2) tool
+pero (n) (IVa1) pen
+hlas (m inanim) (IIa1 or IIa3)  voice
+vlak (m inanim) (k/c) (IIa4)  train
+autobus (m inanim) (IIa1 or IIa3) bus
+tramvaj (f) (IIIc2) streetcar, tram
+metro (n) (-/e) (IVa1)  metro
+motorka (f) (k/c) (-/e) (IIIa2) motocycle
+letadlo (n) (-/e) (IVa1 or IVa3)  airplane
+pas (m inanim) (IIa1 or IIa3) passport
+loď (f) (IIIc1 or IIIc5)  boat
+turista (m anim) (Ic3)  tourist
+kufr (m inanim) (r/ř) (IIa1)  suitcase
+stanice (f) (IIIb4) station
+turistka (f) (k/c) (-/e) (IIIa2)  tourist
+rozdíl (m inanim) (IIa1 or IIa3)  difference
+práce (f) (á/a) (IIIb2*)  work, job
+student (m anim) (t/ť) (Ia1)  student
+učitel (m anim) (Ib7) teacher
+učitelka (f) (k/c) (-/e) (IIIa2)  teacher
+podnikatelka (f) (k/c) (-/e) (IIIa2)  businesswoman
+firma (f) (-/e) (IIIa1) firm, company
+lékařka (f) (k/c) (-/e) (IIIa2) doctor
+odborník (m anim) (k/c) (Ia3) expert
+odbornice (f) (IIIb4) expert
+šéfka (f) (k/c) (-/e) (IIIa2) boss
+podnikatel (m anim) (Ib7) businessman
+kolega (m anim) (g/z) (Ic2) colleague
+kolegyně (f) (IIIb1 or IIIb3) colleague
+umělkyně (f) (IIIb1 or IIIb3) artist
+soudce (m anim) (Id1) judge
+soudkyně (f) (IIIb1 or IIIb3) judge
+prezident (m anim) (t/ť) (Ia1)  president
+továrna (f) (n/ň) (-/e) (IIIa1) factory
+dělník (m anim) (k/c) (Ia3) worker
+zaměstnání (n) (IVd1) job, work
+ředitel (m anim) (Ib7)  director
+zaměstnankyně (f) (IIIb1 or IIIb3)  employee
+zaměstnanec (m anim) (c/č) (e/-) (Ib5)  employee
+nádobí (n) (IVd1) dishes
+počasí (n) (IVd1) weather
+sníh (m inanim) (í/ě) (h/z) (IIa4*) snow
+hora (f) (r/ř) (IIIa2)  mountain
+řeka (f) (k/c) (IIIa2)  river
+nebe (n) (IVb1) sky, heaven
+mrak (m inanim) (k/c) (IIa4)  cloud
+slunce (n) (IVb1) sun
+hvězda (f) (d/ď) (IIIa1)  star
+jezero (n) (r/ř) (IVa1 or IVa3) lake
+příroda (f) (d/ď) (IIIa1) nature
+vítr (m inanim) (í/ě) (r/ř) (IIa1*) wind
+východ (m inanim) (d/ď) (IIa1 or IIa2)  east
+les (m inanim) (IIa7*)  forest, woods
+houba (f) (ou/u) (IIIa1)  mushroom
+fotbal (m inanim) (IIa1 or IIa3)  soccer/football
+sport (m inanim) (IIa1) sport
+gól (m inanim) (IIa1) goal
+zápas (m inanim) (IIa1 or IIa3) match
+hokej (m inanim) (IIb2) hockey
+tým (m inanim) (IIa1) team
+hráč (m anim) (Ib1) player
+lístek (m inanim) (k/c) (e/-) (IIa4)  ticket
+turnaj (m inanim) (IIb2)  tournament
+hráčka (f) (k/c) (-/e) (IIIa2)  player
+míč (m inanim) (IIb2) ball
+hřiště (n) (IVb2*)  field
+otázka (f) (k/c) (-/e) (IIIa2)  question
+zpráva (f) (IIIa1)  message, report
+volby (pl) (-/e) (IIIa1)  election
+politika (f) (k/c) (IIIa2)  politics
+vláda (f) (d/ď) (IIIa1) government
+svět (m inanim) (t/ť) (IIa6)  world
+názor (m inanim) (IIa1) opinion
+předseda (m anim) (Ic1) chairman
+strana (f) (n/ň) (IIIa1)  party, side
+zeď (f) (e/-) (IIIc5 or IIIc6)  wall
+fakt (m inanim, n in Nom and Acc pl) (IIa1*)  fact
+slib (m inanim) (IIa1)  promise
+mluvčí (m anim) (Ie1) spokesperson
+pravda (f) (d/ď) (IIIa1)  truth
+lež (f) (e/-) (IIIc4) lie
+nenávist (f) (t/ť) (IIIc5 or IIIc6) hate
+mír (m inanim) (IIa1) peace
+válka (f) (k/c) (-/e) (IIIa2) war
+politik (m anim) (k/c) (Ia3 or Ia4) politician
+sen (m inanim) (e/-) (IIa1) dream
+radost (f) (t/ť) (IIIc6)  joy
+rádio (n) (IVa5)  radio
+vesnice (f) (IIIb4) village
+matematika (f) (k/c) (IIIa2)  mathematics
+úkol (m inanim) (IIa1 or IIa3)  task
+předmět (m inanim) (t/ť) (IIa1 or IIa2) subject, object
+pozor (m inanim) (IIa1) attention
+známka (f) (k/c) (-/e) (IIIa2)  grade, stamp
+třída (f) (d/ď) (IIIa1) grade, classroom
+chemie (f) (IIIb2)  chemistry
+fyzika (f) (k/c) (IIIa2)  physics
+dějepis (m inanim) (IIa1 or IIa3) history
+čas (m inanim) (IIa1 or IIa3) time
+knihovna (f) (n/ň) (-/e) (IIIa1)  library
+zkouška (f) (k/c) (-/e) (IIIa2) exam
+odpověď (f) (ď/d) (IIIc5*)  answer
+chyba (f) (IIIa1) mistake
+prázdniny (pl) (IIIa1)  vacation, holiday
+vysvědčení (n) (IVd1) report card
+pravopis (m inanim) (IIa1 or IIa3)  spelling
+obor (m inanim) (IIa1)  field, discipline
+budoucnost (f) (t/ť) (IIIc6)  future
+znalost (f) (t/ť) (IIIc6) knowledge
+nemocnice (f) (IIIb4) hospital
+muzeum (n) (IVe2) museum
+bankomat (m inanim) (IIa1)  ATM
+adresa (f) (IIIa2)  address
+směr (m inanim) (IIa1)  direction, way
+pošta (f) (t/ť) (IIIa1) post office
+most (m inanim) (t/ť) (IIa2)  bridge
+budova (f) (IIIa1)  building
+spropitné (n) (IVf1)  tip
+pití (n) (IVd1) drinking
+servírka (f) (k/c) (-/e) (IIIa2)  waitress
+předkrm (m inanim) (IIa1) appetizer
+hovězí (n) (IVf2) beef
+salát (m inanim) (t/ť) (IIa1 or IIa2) salad
+vegetarián (m anim) (n/ň) (Ia1 or Ia2)  vegetarian
+knedlík (m inanim) (k/c) (IIa4) dumpling
+rýže (f) (IIIb2)  rice
+zelí (n) (IVd1) sauerkraut
+vepřové (n) (IVf1)  pork
+účet (m inanim) (t/ť) (e/-) (IIa1 or IIa2)  check, account
+karta (f) (t/ť) (-/e) (IIIa1) card
+chodec (m anim) (c/č) (e/-) (Ib5) pedestrian
+přednost (f) (t/ť) (IIIc6)  priority, advantage
+jízda (f) (d/ď) (IIIa1) ride
+křižovatka (f) (k/c) (-/e) (IIIa2)  intersection
+silnice (f) (IIIb4) road
+značka (f) (k/c) (-/e) (IIIa2)  (traffic) sign
+předpis (m inanim) (IIa1 or IIa2) rule, regulation
+dálnice (f) (IIIb4) freeway, motorway
+semafor (m inanim) (IIa1) traffic light
+cyklista (m anim) (Ic3) cyclist
+pruh (m inanim) (h/z) (IIa4)  lane, stripe
+zácpa (f) (IIIa1) traffic jam
+pokuta (f) (t/ť) (IIIa1)  fine
+parkoviště (n) (IVb2) parking lot
+problém (m inanim) (IIa1) problem
+nehoda (f) (d/ď) (IIIa1)  accident
+smůla (f) (IIIa2) bad luck
+motor (m inanim) (IIa1) engine
+brzda (f) (d/ď) (IIIa1) brake
+pumpa (f) (IIIa1) gas station
+benzín (m inanim) (n/ň) (IIa1 or IIa2)  gasoline, gas
+kopec (m inanim) (e/-) (IIb2) hill
+zatáčka (f) (k/c) (-/e) (IIIa2) curve, bend
+rychlost (f) (t/ť) (IIIc6)  speed
+kilometr (m inanim) (IIa1)  kilometer
+odjezd (m inanim) (d/ď) (IIa1 or IIa2)  departure
+rychlík (m inanim) (k/c) (IIa4) express train
+nástupiště (n) (IVb2) platform
+zpoždění (n) (IVd1) delay
+příjezd (m inanim) (d/ď) (IIa1 or IIa2) arrival
+pokus (m inanim) (IIa1 or IIa3) experiment, test
+vynález (m inanim) (IIa1) invention
+vědec (m anim) (c/č) (e/-) (Ib5)  scientist
+laboratoř (f) (IIIc2) laboratory
+výzkum (m inanim) (IIa1)  research
+objem (m inanim) (IIa1) volume
+jednotka (f) (k/c) (-/e) (IIIa2)  unit
+délka (f) (k/c) (-/e) (IIIa2) length
+litr (m inanim) (r/ř) (IIa1)  liter
+hmotnost (f) (t/ť) (IIIc6)  mass, weight
+kilogram (m inanim) (IIa1)  kilogram
+váha (f) (h/z) (á/a) (IIIa2*) weighing scale
+látka (f) (k/c) (-/e) (IIIa2) substance, fabric
+kov (m inanim) (IIa1) metal
+prvek (m inanim) (k/c) (e/-) (IIa4) element
+rtuť (f) (IIIc5)  mercury
+stupeň (m inanim) (IIb1)  degree
+plyn (m inanim) (IIa1)  gas
+kyslík (m inanim) (k/c) (IIa4)  oxygen
+teplota (f) (t/ť) (IIIa1) temperature
+důkaz (m inanim) (IIa1 or IIa3) evidence
+článek (m inanim) (k/c) (e/-) (IIa4)  article
+jev (m inanim) (IIa1) phenomenon
+energie (f) (IIIb2) energy
+elektrárna (f) (n/ň) (-/e) (IIIa1)  power plant
+odpad (m inanim) (IIa3) waste, trash
+uhlí (n) (IVd1) coal
+vzduch (m inanim) (ch/š) (IIa4*)  air
+znečištění (n) (IVd1) pollution
+zdroj (m inanim) (IIb2) source
+nedostatek (m inanim) (k/c) (e/-) (IIa4)  shortage, lack
+planeta (f) (t/ť) (IIIa1) planet
+vesmír (m inanim) (IIa1)  universe
+anděl (m anim) (Ia5* or Ib7 in pl.) angel
+úsměv (m inanim) (IIa1) smile
+pohled (m inanim) (IIa1)  sight
+slečna (f) (n/ň) (-/e) (IIIa1)  miss
+večeře (f) (IIIb2)  dinner, supper
+miláček (m anim) (k/c) (e/-) (Ia3 or Ia4) darling
+rande (n) (indeclinable)  date
+kino (n) (n/ň) (IVa1 or IVa2) cinema
+růže (f) (IIIb2)  rose
+kamarád (m anim) (d/ď) (Ia1 or Ia2) friend, buddy
+snoubenka (f) (k/c) (-/e) (IIIa2) fiancée
+kamarádka (f) (k/c) (-/e) (IIIa2) female friend
+báseň (f) (IIIc1) poem
+prsten (m inanim) (IIa1)  ring
+manželství (n) (IVd1) marriage
+svatba (f) (IIIa1)  wedding
+srdce (n) (IVb1)  heart
+rameno (n) (n/ň) (IVa1* or IVa2*) shoulder
+koleno (n) (n/ň) (IVa1* or IVa2*) knee
+bolest (f) (t/ť) (IIIc6)  pain
+telefon (m inanim) (IIa1) phone, telephone
+výplata (f) (t/ť) (IIIa1) paycheck
+sešívačka (f) (k/c) (-/e) (IIIa2) stapler
+schůze (f) (IIIb2)  meeting
+peníze (pl) (í/ě) (IIb2*) money
+potravina (f) (n/ň) (IIIa1) groceries, food
+cena (f) (n/ň) (IIIa1)  price
+zrcadlo (n) (-/e) (IVa1 or IVa3)  mirror
+sleva (f) (IIIa1) discount
+velikost (f) (t/ť) (IIIc6)  size
+taška (f) (k/c) (-/e) (IIIa2) bag
+dárek (m inanim) (k/c) (e/-) (IIa4) gift
+pasta (f) (t/ť) (IIIa1) paste
+drogerie (f) (IIIb2)  pharmacy
+kartáček (m inanim) (k/c) (e/-) (IIa4*) brush
+přání (n) (IVd1)  wish
+život (m inanim) (t/ť) (IIa6) life
+náhoda (f) (d/ď) (IIIa1)  chance
+smrt (f) (t/ť) (IIIc5)  death
+osud (m inanim) (IIa1)  fate, destiny
+naděje (f) (IIIb2)  hope
+informace (f) (IIIb2) information
+vzpomínka (f) (k/c) (-/e) (IIIa2) memory
+případ (m inanim) (d/ď) (IIa1 or IIa2)  case
+víra (f) (r/ř) (í/ě) (IIIa2*) faith
+smysl (m inanim) (IIa1) sense
+nesmysl (m inanim) (IIa1) nonsense
+vztah (m inanim) (h/z) (IIa4) attitude, relation
+snaha (f) (h/z) (IIIa2) effort
+výsledek (m inanim) (k/c) (-/e) (IIa4)  result
+situace (f) (IIIb2) situation
+galerie (f) (IIIb2) gallery
+umění (n) (IVd1)  art
+výstava (f) (IIIa1) exhibition
+obraz (m inanim) (IIa1 or IIa3) painting
+portrét (m inanim) (t/ť) (IIa1 or IIa2) portrait
+štětec (m inanim) (e/-) (IIb2)  paintbrush
+malíř (m anim) (Ib1)  painter
+dražba (f) (-/e) (IIIa1)  auction
+dřevo (n) (IVa1 or IVa2)  wood
+kámen (m inanim) (n/ň) (á/a) (IIa1* or IIa2)* stone
+socha (f) (ch/š) (IIIa2)  statue
+dílna (f) (n/ň) (-/e) (IIIa1) workshop
+sochař (m anim) (Ib1) sculptor
+píseň (f) (e/-) (IIIc1) song
+hymna (f) (n/ň) (-/e) (IIIa1) anthem
+žánr (m inanim) (r/ř) (IIa1)  genre
+zpěvák (m anim) (k/c) (Ia3) singer
+skupina (f) (n/ň) (IIIa1) band, group
+zpěvačka (f) (k/c) (-/e) (IIIa2)  female singer
+hudba (f) (-/e) (IIIa1) music
+housle (pl) (IIIb2) violin
+publikum (n) (IVe1) audience
+klavír (m inanim) (IIa1)  piano
+zvuk (m inanim) (k/c) (IIa4)  sound
+vystoupení (n) (IVd1) performance
+jeviště (n) (IVb2)  stage
+vstupenka (f) (k/c) (-/e) (IIIa2) ticket
+hra (f) (r/ř) (-/e) (IIIa2) play, game
+herec (m anim) (c/č) (e/-) (Ib5)  actor
+režisér (m anim) (r/ř) (Ia1)  director
+film (m inanim) (IIa1)  movie, film
+princezna (f) (n/ň) (-/e) (IIIa1) princess
+pohádka (f) (k/c) (-/e) (IIIa2) fairy tale
+konec (m inanim) (e/-) (IIb2) ending, end
+drak (m anim) (k/c) (Ia3 or Ia4)  dragon
+román (m inanim) (n/ň) (IIa1 or IIa2) novel
+postava (f) (IIIa1) character
+spisovatel (m anim) (Ib7) writer
+začátek (m inanim) (k/c) (e/-) (IIa4) beginning
+příběh (m inanim) (h/z) (IIa4)  story
+noviny (pl) (IIIa1) newspaper
+vyšetřování (n) (IVd1)  investigation
+titulek (m inanim) (IIa4) headline
+terorista (m anim) (Ic3)  terrorist
+Korea (f) (IIIa3) Korea
+střela (f) (IIIa2)  missile
+vměšování (n) (IVd1)  meddling
+Rusko (n) (IVa4)  Russia
+sankce (f) (IIIb2)  sanction
+stát (m inanim) (t/ť) (IIa1 or IIa2)  state
+
